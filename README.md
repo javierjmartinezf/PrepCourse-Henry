@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-Este es un repositorio del Módulo 2 del Prep Course de Henry
+Ejemplo de como traer un repositorio de remoto a local, clonándolo. Hacemos los cambios y actualizamos luego de local a remoto.
